@@ -15,8 +15,6 @@
 - No hay una definición objetiva.
 - Los diferentes estadísticos descriptivos dan nociones diferentes sobre los mismos datos.
 
-![Untitled.png](Estadi%CC%81stica%20descriptiva%201872ac93d43e4d45bbd44a85b2ab781a/Untitled.png)
-
 ## ¿Por qué aprender estadística?
 
 - Resumir grandes cantidades de información.
@@ -27,9 +25,6 @@
 
 # Flujo de trabajo en Data Science
 
-![Untitled%201.png](Estadi%CC%81stica%20descriptiva%201872ac93d43e4d45bbd44a85b2ab781a/Untitled%201.png)
-
-![Untitled%202.png(Estadi%CC%81stica%20descriptiva%201872ac93d43e4d45bbd44a85b2ab781a/Untitled%202.png)
 
 > según esta clase; la ingesta de datos y validación sí es una etapa del flujo de trabajo de un proyecto de Data Science donde interviene la estadística descriptiva.
 > 
@@ -148,7 +143,6 @@ $$
 
 La mediana se define como:
 
-![Untitled](Estadi%CC%81stica%20descriptiva%201872ac93d43e4d45bbd44a85b2ab781a/Untitled%203.png)
 
 # Medidas de dispersión
 

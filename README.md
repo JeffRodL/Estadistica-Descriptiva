@@ -15,7 +15,7 @@
 - No hay una definición objetiva.
 - Los diferentes estadísticos descriptivos dan nociones diferentes sobre los mismos datos.
 
-![Untitled](Estadi%CC%81stica%20descriptiva%201872ac93d43e4d45bbd44a85b2ab781a/Untitled.png)
+![Untitled.png](Estadi%CC%81stica%20descriptiva%201872ac93d43e4d45bbd44a85b2ab781a/Untitled.png)
 
 ## ¿Por qué aprender estadística?
 
@@ -27,9 +27,9 @@
 
 # Flujo de trabajo en Data Science
 
-![Untitled](Estadi%CC%81stica%20descriptiva%201872ac93d43e4d45bbd44a85b2ab781a/Untitled%201.png)
+![Untitled%201.png](Estadi%CC%81stica%20descriptiva%201872ac93d43e4d45bbd44a85b2ab781a/Untitled%201.png)
 
-![Untitled](Estadi%CC%81stica%20descriptiva%201872ac93d43e4d45bbd44a85b2ab781a/Untitled%202.png)
+![Untitled%202.png(Estadi%CC%81stica%20descriptiva%201872ac93d43e4d45bbd44a85b2ab781a/Untitled%202.png)
 
 > según esta clase; la ingesta de datos y validación sí es una etapa del flujo de trabajo de un proyecto de Data Science donde interviene la estadística descriptiva.
 > 
@@ -619,10 +619,5 @@ Como consecuencia la matriz se denomina matriz ortogonal, y se sabe en matemáti
 
 ![https://i.imgur.com/20Iqk5V.png](https://i.imgur.com/20Iqk5V.png)
 
-En la próxima clase veremos esto de forma más detallada y visual, te veo allí.
-
-# Análisis de componentes principales PCA
-
-## Proyección de un vector
 
 ![Untitled](Estadi%CC%81stica%20descriptiva%201872ac93d43e4d45bbd44a85b2ab781a/Untitled%2013.png)
